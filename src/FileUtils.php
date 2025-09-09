@@ -9,7 +9,7 @@ class FileUtils
         $result = [];
         $fh = fopen($fileName, 'r');
         while ($line = fgets($fh)) {
-            $list = explode(" ", $line);
+            $list = explode(" ", trim($line));
             if (count($list) == 2) {
                 $result[$list[0]] = $list[1];
             }
