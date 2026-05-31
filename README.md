@@ -5,7 +5,7 @@ You can also see [Java](https://github.com/starlangsoftware/Util), [Python](http
 
 ## Requirements
 
-* [Php 8.0 or higher](#php)
+* [Php 8.4 or higher](#php)
 * [Git](#git)
 
 ### Php 
@@ -27,7 +27,7 @@ Use Git for cloning the code to your local or below line for Ubuntu:
 
 	git clone <your-fork-git-link>
 
-A directory called DataStructure will be created. Or you can use below link for exploring the code:
+A directory called Util will be created. Or you can use below link for exploring the code:
 
 	git clone https://github.com/starlangsoftware/Util-Php.git
 
